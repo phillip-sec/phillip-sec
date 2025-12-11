@@ -18,7 +18,6 @@
 - Active Directory + SIEM Homelab
 - TryHackMe Security Analyst Path
 - Malware Analysis Fundamentals
-- Blue Team Detection Pack (Sigma + SIEM rules)
 
 ---
 
