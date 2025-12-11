@@ -14,16 +14,16 @@
 
 ---
 
-## **🚀 What I'm Working On**
-- 🕵️ Phishing Detection Browser Extension  
-- 🖥️ Home Lab (AD + SIEM + Firewall)  
-- 🔍 SOC / Blue Team Write-ups  
-- 🐍 Python automation & tooling  
+## 🔧 What I'm Working On
+- Active Directory + SIEM Homelab
+- TryHackMe Security Analyst Path
+- Malware Analysis Fundamentals
+- Blue Team Detection Pack (Sigma + SIEM rules)
 
 ---
 
 ## **📚 Roadmap**
-- Security+  
+- TryHackMe Blue Team Path  
 - Python + Bash  
 - SIEM + SOAR  
 - Malware analysis basics  
